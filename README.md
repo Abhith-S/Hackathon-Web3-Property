@@ -1,6 +1,4 @@
-# Real Estate NFT DApp
-
-Note : the Dapp frontend is not completed yet, I'm updating the repo every day.
+# Web3 Property
 
 ## Technology Stack & Tools
 
